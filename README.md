@@ -4,4 +4,6 @@ This News Finder web application uses the api from newsapi.org (articles up to a
 
 Features: Sort by newest or oldest
 
+Time spent: Roughly 4 hours
+
 [Demo Link](https://www.youtube.com/watch?v=oY3ndQ4lDXo)
